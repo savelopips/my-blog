@@ -11,3 +11,7 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed off-by-one error in loop
 - Resolved deprecation warnings
 - Refactored module structure for clarity
+
+## 2026-04-22
+- Pinned dependency versions for reproducibility
+- Tested build on clean environment
