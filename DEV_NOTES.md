@@ -19,3 +19,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-29
 - Cleaned up old debug logs
 - Added .editorconfig for consistent formatting
+
+## 2026-04-29
+- Added CONTRIBUTING.md stub
+- Added .editorconfig for consistent formatting
