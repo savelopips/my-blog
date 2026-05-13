@@ -35,3 +35,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-06
 - Updated dependencies to latest stable versions
 - Reorganised test fixtures
+
+## 2026-05-13
+- Documented config options
+- Updated .gitignore to exclude build artifacts
